@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003006015211",
+    "project_id": "kawaii-chat-app-firebase",
+    "storage_bucket": "kawaii-chat-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003006015211:android:a4a03943ca4fd3e37b70ae",
+        "android_client_info": {
+          "package_name": "com.example.kawaii_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmH6WFzJnF4zCJFkF3s1wLpQt8i7TilOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003006015211:android:305a77d87406fe217b70ae",
+        "android_client_info": {
+          "package_name": "com.example.kawaii_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmH6WFzJnF4zCJFkF3s1wLpQt8i7TilOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
