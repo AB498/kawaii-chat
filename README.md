@@ -42,4 +42,5 @@ For any inquiries or issues regarding this project, please contact: [zubaerahmed
 
 ### Video Preview
 
-https://ab498.github.io/vids/chat-recording.mp4
+[recording.mp4](https://ab498.github.io/vids/chat-recording.mp4)
+
