@@ -42,4 +42,5 @@ For any inquiries or issues regarding this project, please contact: [zubaerahmed
 
 ### Video Preview
 
-[myvideo.mp4](https://github.com/AB498/kawaii-chat/assets/52972436/9de55f18-0ee7-46d8-98e0-63aed6a8d3c4)
+https://github.com/AB498/kawaii-chat/assets/52972436/50c8f950-d014-4dfb-ad2f-f0491afd322d
+
