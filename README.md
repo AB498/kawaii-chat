@@ -42,5 +42,6 @@ For any inquiries or issues regarding this project, please contact: [zubaerahmed
 
 ### Video Preview
 
-[preview.mp4](https://github.com/AB498/kawaii-chat/previews/recording.mp4)
-
+<video width="100%" controls>
+  <source src="https://ab498.github.io/vids/chat-recording.mp4" type="video/mp4"> 
+</video>
